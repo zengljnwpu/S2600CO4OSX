@@ -1,4 +1,4 @@
-# Intel S2600CO4(X79) + AMD RX590 + OpenCore 0.7.5 + Monterey 12.0.1 Perfect
+# Intel S2600CO4 + AMD RX590 + OpenCore 0.7.9 + Monterey 12.3 Perfect
 
 1. CPU(E5-2687W, Sandy Bridge-E) Power Management OK (1.2GHz->3.37GHz)
 2. AMD RX590 OK
