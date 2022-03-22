@@ -768,14 +768,14 @@
 						<key>port</key>
 						<data>AwAAAA==</data>
 						<key>portType</key>
-						<integer>2</integer>
+						<integer>0</integer>
 					</dict>
 					<key>PRT4</key>
 					<dict>
 						<key>port</key>
 						<data>BAAAAA==</data>
 						<key>portType</key>
-						<integer>2</integer>
+						<integer>0</integer>
 					</dict>
 					<key>PRT6</key>
 					<dict>
@@ -789,7 +789,7 @@
 						<key>port</key>
 						<data>BwAAAA==</data>
 						<key>portType</key>
-						<integer>2</integer>
+						<integer>0</integer>
 					</dict>
 					<key>PRT8</key>
 					<dict>
@@ -993,14 +993,14 @@
 						<key>port</key>
 						<data>BAAAAA==</data>
 						<key>portType</key>
-						<integer>2</integer>
+						<integer>0</integer>
 					</dict>
 					<key>PRT6</key>
 					<dict>
 						<key>port</key>
 						<data>BgAAAA==</data>
 						<key>portType</key>
-						<integer>2</integer>
+						<integer>0</integer>
 					</dict>
 					<key>PRT7</key>
 					<dict>
